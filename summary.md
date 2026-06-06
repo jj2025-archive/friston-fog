@@ -16,6 +16,8 @@ This system worked beautifully for millions of years in stable, local environmen
 
 *Result: Mental static. You feel scattered.*
 
+*JRJ comment/example: In the 90's you'd see a bus-stop ad every few blocks, and a commercial every x minutes when watching your favourite TV show. Now not only are ads so relevant, targeted and compelling in the digital space, the speed with which you're hit with not just ads but things "you need to do now!!!" is unprecedented.*
+
 ---
 
 ### **2. Scope Overload: Global Threats Your Brain Wasn't Built For**
@@ -26,6 +28,8 @@ This system worked beautifully for millions of years in stable, local environmen
 
 *Result: Chronic anxiety and overwhelm. Your executive brain (the part that plans and thinks clearly) gets suppressed in favor of reactive, survival mode.*
 
+*JRJ comment/example: While obviously in the 90s CNN and "world news" was prevalent, the immediacy and tangibility is extremely novel. Floods in Mumbai, forest fires in Hollywood and Bitcoin crashing to 'zero' have a deeply connected and resonant feel - possibly because via the Internet, social media and widespread plane travel/ globalisation/ meeting people from different countries/cultures these are not clips on TV but a deeply felt, affected experience.*
+
 ---
 
 ### **3. Complexity Overload: Too Many Possible Outcomes**
@@ -35,6 +39,8 @@ This system worked beautifully for millions of years in stable, local environmen
 **What happens:** You get stuck in "analysis paralysis." Faced with infinite possibilities and no way to decide, your brain freezes. Decision-making becomes exhausting because there's no obvious "right answer."
 
 *Result: You can't commit to anything. Everything feels undoable.*
+
+*JRJ comment/example: In the 90s, you could be plumber and buy some shares through your stockbrocker, maybe a timeshare in Maui - and feel like a total superhero. But now, a teenager in Bangkok is coding a social media API for a Munich startup while making bank on memecoins. You can be a high-level corporate project manager in your city and feel like a total loser unable to keep up.*
 
 ---
 
