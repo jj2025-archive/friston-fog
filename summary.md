@@ -18,6 +18,8 @@ This system worked beautifully for millions of years in stable, local environmen
 
 *JRJ comment/example: In the 90's you'd see a bus-stop ad every few blocks, and a commercial every x minutes when watching your favourite TV show. Now not only are ads so relevant, targeted and compelling in the digital space, the speed with which you're hit with not just ads but things "you need to do now!!!" is unprecedented.*
 
+*JRJ example justification via Claude Haiku: This is not just "more of the same." It captures the qualitative shift from passive exposure to algorithmically-optimized precision targeting. A 90s commercial was ignorable noise; a 2020s ad is custom-designed to trigger your specific vulnerabilities. This illustrates precision weighting (the brain wrongly assumes high-precision signals) without using that jargon.*
+
 ---
 
 ### **2. Scope Overload: Global Threats Your Brain Wasn't Built For**
@@ -30,6 +32,8 @@ This system worked beautifully for millions of years in stable, local environmen
 
 *JRJ comment/example: While obviously in the 90s CNN and "world news" was prevalent, the immediacy and tangibility is extremely novel. Floods in Mumbai, forest fires in Hollywood and Bitcoin crashing to 'zero' have a deeply connected and resonant feel - possibly because via the Internet, social media and widespread plane travel/ globalisation/ meeting people from different countries/cultures these are not clips on TV but a deeply felt, affected experience.*
 
+*JRJ example justification via Claude Haiku: This is the key insight—it's not that global information existed, but that it's now viscerally immediate and personalized. You see the faces in Mumbai, watch the livestream of fires, see the exact moment Bitcoin crashes. Your amygdala treats it like a local threat because it feels local.*
+
 ---
 
 ### **3. Complexity Overload: Too Many Possible Outcomes**
@@ -41,6 +45,8 @@ This system worked beautifully for millions of years in stable, local environmen
 *Result: You can't commit to anything. Everything feels undoable.*
 
 *JRJ comment/example: In the 90s, you could be plumber and buy some shares through your stockbrocker, maybe a timeshare in Maui - and feel like a total superhero. But now, a teenager in Bangkok is coding a social media API for a Munich startup while making bank on memecoins. You can be a high-level corporate project manager in your city and feel like a total loser unable to keep up.*
+
+*JRJ example justification via Claude Haiku: This is brutally effective because it captures narrative collapse. In the 90s, you had a clear identity trajectory (plumber → investor → success). Now that same plumber competes with: teenagers coding in Bangkok, AI-optimized trading algorithms, gig economy saturation, instantaneous global market knowledge.*
 
 ---
 
