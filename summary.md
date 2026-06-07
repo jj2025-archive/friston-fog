@@ -4,7 +4,7 @@
 
 Your brain is essentially a **prediction machine**. It constantly tries to anticipate what's going to happen next—based on patterns it learned from your past—so it can stay safe and make good decisions.
 
-This system worked beautifully for millions of years in stable, local environments. But the digital world violates almost every assumption your brain evolved with.
+This system worked beautifully for a very long time in stable, local environments. But the digital world violates almost every assumption your brain evolved with.
 
 ## Three Ways the Digital World Breaks Your Brain's Prediction System
 
